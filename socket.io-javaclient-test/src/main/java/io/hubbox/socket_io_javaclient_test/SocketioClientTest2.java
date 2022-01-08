@@ -46,8 +46,6 @@ public class SocketioClientTest2 {
                 .hostnameVerifier(sslFactory.getHostnameVerifier())
                 .build();
 
-        io.socket.client.Socket mSocket;
-
         IO.Options opts = new IO.Options();
 
         opts.secure = true;
