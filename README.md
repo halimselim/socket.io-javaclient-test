@@ -1,5 +1,5 @@
 # socket.io-javaclient-test
-
+```java
         String server_host = "XXX";
         String user_token = "YYY";
   
@@ -15,6 +15,7 @@
         });
 
         mSocket.connect();
+```
 
 # with two way SSL
  [Test2](https://github.com/halimselim/socket.io-javaclient-test/blob/main/socket.io-javaclient-test/src/main/java/io/hubbox/socket_io_javaclient_test/SocketioClientTest2.java) shows 2 way SSL certificate
