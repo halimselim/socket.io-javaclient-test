@@ -17,4 +17,4 @@
         mSocket.connect();
 
 # with two way SSL
- [https://github.com/halimselim/socket.io-javaclient-test/blob/main/socket.io-javaclient-test/src/main/java/io/hubbox/socket_io_javaclient_test/SocketioClientTest2.java](Test2) shows 2 way SSL certificate
+ [Test2](https://github.com/halimselim/socket.io-javaclient-test/blob/main/socket.io-javaclient-test/src/main/java/io/hubbox/socket_io_javaclient_test/SocketioClientTest2.java) shows 2 way SSL certificate
